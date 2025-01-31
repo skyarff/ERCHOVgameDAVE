@@ -12,8 +12,8 @@ public class Player : PlayerInteraction
     public UnityEngine.UI.Image image;
 
     public float moveSpeed;
-    public float lowSpeed = 6f;
-    public float highSpeed = 10f;
+    public float lowSpeed = 8f;
+    public float highSpeed = 12f;
     public float jumpForce = 5f;
     public float jumpK = 5f;
     public float lookSensivity = 1.5f;

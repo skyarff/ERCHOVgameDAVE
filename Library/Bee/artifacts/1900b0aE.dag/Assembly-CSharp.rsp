@@ -365,6 +365,7 @@
 "Assets/ProjectSource/Scripts/Enemy/Enemy.cs"
 "Assets/ProjectSource/Scripts/InteractiveElements/IInteractable.cs"
 "Assets/ProjectSource/Scripts/InteractiveElements/Lamp.cs"
+"Assets/ProjectSource/Scripts/InteractiveElements/TrafficLight.cs"
 "Assets/ProjectSource/Scripts/MainMenu.cs"
 "Assets/ProjectSource/Scripts/Player/Player.cs"
 "Assets/ProjectSource/Scripts/Player/PlayerInteraction.cs"

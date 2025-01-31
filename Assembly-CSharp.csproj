@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets\Tom&apos;s Terrain Tools\Scripts\SpawnInArea.cs" />
     <Compile Include="Assets\ProjectSource\Scripts\Bonuses\Money.cs" />
+    <Compile Include="Assets\ProjectSource\Scripts\InteractiveElements\TrafficLight.cs" />
     <Compile Include="Assets\Tom&apos;s Terrain Tools\Scripts\ForceGrassDistanceInEditor.cs" />
     <Compile Include="Assets\ProjectSource\Scripts\InteractiveElements\Lamp.cs" />
     <Compile Include="Assets\Tom&apos;s Terrain Tools\Scripts\TerrainQualitySettings.cs" />
